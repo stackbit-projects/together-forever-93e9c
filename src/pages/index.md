@@ -6,7 +6,8 @@ sections:
     subtitle: >-
       This is the landing spot to keep up with all things related to our lives
       as we celebrate special milestones. We want our friends and family to have
-      a convient spot in the virtual universe to get information from us
+      a convienient spot in the virtual universe to get information from us from
+      time to time.
     actions:
       - label: Contact Me
         url: /contact
