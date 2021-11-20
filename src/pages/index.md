@@ -166,12 +166,12 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: >-
-      ## Let's talk
+    content: >
+      ## Let's stay in touch
 
 
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      If you would like to stay up to date with important things going on in our
+      lives and get periodic updates, fill in the form below. 
     content_align: left
     form_position: right
     form_width: fifty
