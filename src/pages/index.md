@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Alyssa and Trevor
-    subtitle: Trevor and Alyssa
+    subtitle: >-
+      This is the landing spot to keep up with all things related to our lives
+      as we celebrate special milestones.
     actions:
       - label: Contact Me
         url: /contact
