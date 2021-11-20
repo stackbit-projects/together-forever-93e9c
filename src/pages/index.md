@@ -5,7 +5,8 @@ sections:
     title: Alyssa and Trevor
     subtitle: >-
       This is the landing spot to keep up with all things related to our lives
-      as we celebrate special milestones.
+      as we celebrate special milestones. We want our friends and family to have
+      a convient spot in the virtual universe to get information from us
     actions:
       - label: Contact Me
         url: /contact
