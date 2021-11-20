@@ -9,7 +9,7 @@ sections:
       a convienient spot in the virtual universe to get information from us from
       time to time.
     actions:
-      - label: Contact Me
+      - label: Subscribe to updates
         url: /contact
         style: primary
     image: images/PXL_20211106_192107381.jpeg
